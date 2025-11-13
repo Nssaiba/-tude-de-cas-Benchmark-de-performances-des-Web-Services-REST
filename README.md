@@ -1,4 +1,4 @@
-# 📊 Benchmark de performances des Web Services REST
+# Benchmark de performances des Web Services REST
 
 Cette étude compare trois approches d’exposition d’API sous **Spring Boot** :  
 **Jersey**, **@RestController** et **Spring Data REST**.
