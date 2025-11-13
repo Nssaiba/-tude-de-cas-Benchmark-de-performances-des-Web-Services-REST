@@ -24,6 +24,7 @@ MIXED
 <img width="975" height="550" alt="image" src="https://github.com/user-attachments/assets/f19f5352-3f27-424c-9603-d9ce89d39628" />
 
 HEAVY-body
+<img width="1631" height="859" alt="image" src="https://github.com/user-attachments/assets/d41770f6-b923-466a-aa82-95aafda9b601" />
 
 
 Dashboards Grafana
@@ -33,26 +34,36 @@ Variante A:
 
 <img width="1920" height="950" alt="Capture5RDHEAVYcount" src="https://github.com/user-attachments/assets/b1536615-af92-4cc9-937b-b9c3ea5dcf8e" />
 
-Variante B:
+Variante C:
 
 <img width="1920" height="993" alt="Capture8ReadHEAVYvarB" src="https://github.com/user-attachments/assets/b921adf0-0db7-48db-8a2d-12f689202824" />
+
+Variante D:
+<img width="1904" height="694" alt="image" src="https://github.com/user-attachments/assets/8cb8ab37-be1c-49ff-adb1-efde1c8c7c4c" />
+
 
 JOIN-filter
 Variante A
 <img width="1920" height="1014" alt="Capture2COUNT" src="https://github.com/user-attachments/assets/4d914652-c5a6-49c2-b67e-bb4941c5c8b7" />
 Variante C
 <img width="1916" height="593" alt="Capture9JOINVarc" src="https://github.com/user-attachments/assets/114f69af-53b7-41d2-9da5-27e85057dca5" />
+Variante D:
+<img width="1912" height="709" alt="image" src="https://github.com/user-attachments/assets/1de023de-d103-4a39-bb57-892dff5e0fac" />
 
 MIXED
-Variante B
+Variante A
 <img width="1862" height="886" alt="Capture7MIXEDVarA" src="https://github.com/user-attachments/assets/4841e7db-6449-4db6-8d0b-2af8e40158be" />
 
 Variante C
 <img width="1920" height="719" alt="Capture10MIXEDvarc" src="https://github.com/user-attachments/assets/d00366a2-8a04-4d68-89d6-4ef5b5266a50" />
 
-HEAVY-body                pour chaque 2 images dans la meme section je les veux sur la meme ligne exemple MIXED
-Variante B
-<img width="1862" height="886" alt="Capture7MIXEDVarA" src="https://github.com/user-attachments/assets/4841e7db-6449-4db6-8d0b-2af8e40158be" />
+Variante D:
+<img width="1920" height="593" alt="image" src="https://github.com/user-attachments/assets/317eccb2-c312-488c-a80e-926f8048367f" />
 
-Variante C
-<img width="1920" height="719" alt="Capture10MIXEDvarc" src="https://github.com/user-attachments/assets/d00366a2-8a04-4d68-89d6-4ef5b5266a50" />      c'est un readme
+l’interface web d’InfluxDB
+
+<img width="1920" height="998" alt="image" src="https://github.com/user-attachments/assets/c73e9e28-71bf-4821-926d-ea45c91476c9" />
+
+
+
+             
